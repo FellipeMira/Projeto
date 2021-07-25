@@ -7,5 +7,5 @@
 3. Reamostragens
 4. stack
 5. Regressão Logistica
-/
+# Resultado final
 ![alt text here](prob_map.jpg)
