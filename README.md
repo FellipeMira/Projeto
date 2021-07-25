@@ -7,4 +7,5 @@
 3. Reamostragens
 4. stack
 5. Regressão Logistica
-![alt text here](prob_map)
+/
+![alt text here](prob_map.jpg)
