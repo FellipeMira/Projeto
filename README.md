@@ -5,7 +5,7 @@
 1. Recortes
 2. Ajustes
 3. Reamostragens
-4. stack
+4. Stack
 5. Regressão Logistica
 # Resultado final
 ![alt text here](prob_map.jpg)
