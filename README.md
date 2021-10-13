@@ -6,8 +6,7 @@
 2. Ajustes
 3. Reamostragem
 4. Projeção
-5. Stack
-6. Regressão Logistica
+6. Regressão Logistica (Modelo Linear Generalizado) 
 7. validação
 8. R-ArcGIS bridge
 # Resultado final
