@@ -9,5 +9,6 @@
 6. Regressão Logistica (Modelo Linear Generalizado) 
 7. validação
 8. R-ArcGIS bridge
+9. limiarização: Método de Otsu.
 # Resultado final
 ![alt text here](prob_map.jpg)
