@@ -1,6 +1,6 @@
 # PROJETO EM IMPLEMENTAÇÃO
 ## Projeto da disciplina de sensoriamento remoto
-## Identificação de serviços ecossistemicos: Microclima local - Termorregulação
+## Valoração Ambiental e Identificação de serviços ecossistemicos: Microclima local - Termorregulação
 ### Tópicos abordados:
 1. Recortes
 2. Ajustes
