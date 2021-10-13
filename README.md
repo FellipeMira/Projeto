@@ -1,11 +1,14 @@
-# PROJETO INCOMPLETO E DESORGANIZADO 20/07
+# PROJETO EM IMPLEMENTAÇÃO
 ## Projeto da disciplina de sensoriamento remoto
-## Avaliação dos impactos de fragmentos de floresta no microclima local
+## Identificação de serviços ecossistemicos
 ### Tópicos abordados:
 1. Recortes
 2. Ajustes
-3. Reamostragens
-4. Stack
-5. Regressão Logistica
+3. Reamostragem
+4. Projeção
+5. Stack
+6. Regressão Logistica
+7. validação
+8. R-ArcGIS bridge
 # Resultado final
 ![alt text here](prob_map.jpg)
